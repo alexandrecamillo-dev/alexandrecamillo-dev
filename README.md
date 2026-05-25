@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Alexandre Camillo
 
-<!--
-**alexandrecamillo-dev/alexandrecamillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação (1º semestre) na Anhanguera  
+🎓 Também estudante do SENAI  
+💻 Aprendendo Desenvolvimento Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Estou iniciando na área de programação e buscando meu primeiro estágio ou oportunidade como desenvolvedor.
+
+Tenho foco em aprender desenvolvimento web e melhorar minhas habilidades constantemente.
+
+---
+
+## 🧠 Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
+- Lógica de Programação
+- Power BI
+
+---
+
+## 🎯 Objetivo
+Conseguir meu primeiro estágio na área de programação e evoluir como desenvolvedor front-end.
+
+## 📫 Contato
+- GitHub: https://github.com/alexandrecamillo-dev
+- Email: (dasilvacamilloalexandre@gmail.com)
