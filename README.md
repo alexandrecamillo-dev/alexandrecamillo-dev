@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Alexandre Camillo
 
 🎓 Estudante de Ciência da Computação (1º semestre) na Anhanguera  
-🎓 Também estudante do SENAI  
+🎓 Também estudante do SENAI - [Ver Certificado: Desvendando Data Center](./Certificado_Desvendando%20Data%20Center.pdf)  
 💻 Aprendendo Desenvolvimento Web  
 
 ---
